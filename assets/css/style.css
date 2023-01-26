@@ -74,11 +74,10 @@ nav ul li .activee{
 }
 
 .container-dua{
-    background-color:white (248, 250, 249);
+    background-color:#efede8;
     font-weight: bold;
-    border-radius: 5px;
-    margin: 50px;
-    padding: 20px;
+    border-radius: 10px;
+    margin: 70px;
 
 }
 .sg{
@@ -109,7 +108,6 @@ nav ul li .activee{
 .bab{
     width: 250px; 
     height:250px;
-    
 }
 .nama {
     text-align: center;

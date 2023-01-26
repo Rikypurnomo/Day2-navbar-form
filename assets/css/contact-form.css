@@ -1,7 +1,7 @@
 * {
     margin: 0;
     font-family: 'poppins',sans-serif;
-    background: rgba(241, 240, 240, 0.991);
+    background: white;
 }
 
 form {
@@ -52,9 +52,6 @@ button{
     margin-right: 30px;
 }
 
-.item-left{
-        flex: 50%;
-}
 
 .imglogo {
     width: 32px;
@@ -63,12 +60,12 @@ button{
 
 nav ul li a{
     text-decoration: none;
-    color: #3d3d3d;
+    color: #111111;
     font-weight: bold;
 }
 nav{
     display: flex;
-    height: 9vh;
+    height: 5vh;
     align-items: center;
 }
 img{
@@ -90,4 +87,5 @@ P{
 text-align: center;
 font-size: xx-large;
 font-weight: bold;
+margin: 30px;
 }
